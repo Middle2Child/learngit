@@ -1,1 +1,10 @@
-Git is a ver control system.
+Git is a verion control system.
+Git bash cannot display chinese characters but its hex code.
+
+command have leart:
+1. mkdir cd
+2. git init  ----creat and empty a repository where the files are under git's management
+3. git add
+   git commit
+4. git checkout ----discard changes
+5. git diff ----cmp difference
