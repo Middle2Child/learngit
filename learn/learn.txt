@@ -1,6 +1,7 @@
 Git is a verion control system.
 Git bash cannot display chinese characters but its hex code.
 Git tracks changes of files.
+first change
 command have leart:
 1. mkdir cd
 2. git init  ----creat and empty a repository where the files are under git's management
