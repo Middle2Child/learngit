@@ -1,1 +1,3 @@
 licenceSentence1
+licenceSentence2
+licenceSentence3
