@@ -1,8 +1,6 @@
 Git is a verion control system.
 Git bash cannot display chinese characters but its hex code.
-Git is a verion control system.
 
-Git is a verion control system.
 command have leart:
 1. mkdir cd
 2. git init  ----creat and empty a repository where the files are under git's management
