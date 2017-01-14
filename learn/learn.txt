@@ -8,3 +8,4 @@ command have leart:
    git commit
 4. git checkout ----discard changes
 5. git diff ----cmp difference
+6. git status
